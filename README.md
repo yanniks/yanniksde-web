@@ -1,0 +1,3 @@
+## yanniks.de Website
+
+Das ist der Code von meiner neuen Website. Das Template ist von [HTML5 UP](http://html5up.net), ansonsten wird [Shariff](https://github.com/heiseonline/shariff), [twitter-api-php](https://github.com/J7mbo/twitter-api-php) und [PACE](https://github.com/HubSpot/pace) eingebunden, der Rest ist von mir. Ich freue mich natürlich, wenn ihr euch meine Seite als (hoffentlich positives) Beispiel nehmt.
